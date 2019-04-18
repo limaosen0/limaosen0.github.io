@@ -4,7 +4,7 @@ title:      Actional-Structural Graph Convolutional Networks for Skeleton-based 
 subtitle:   Accepted as Poster at CVPR 2019
 date:       2019-04-18
 author:     Maosen
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-action.jpg
 catalog: true
 tags:
     - CVPR
